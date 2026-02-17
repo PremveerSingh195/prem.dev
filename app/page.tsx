@@ -30,13 +30,7 @@ export default function Home() {
       description: "A robust RESTful API featuring authentication, real-time updates via WebSockets, and heavy data processing.",
       techStack: ["Node.js", "Express", "MongoDB", "Docker"],
       link: "#",
-    },
-    {
-      title: "AI Chat Wrapper",
-      description: "A SaaS wrapper for OpenAI API allowing users to organize chats into folders with custom system prompts.",
-      techStack: ["React", "Firebase", "Stripe", "OpenAI API"],
-      link: "#",
-    },
+    }
   ];
 
   // --- RENDER SECTION ---
