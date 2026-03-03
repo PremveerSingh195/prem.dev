@@ -21,15 +21,15 @@ export default function Home() {
   const projects = [
     {
       title: "Travel booking Frontend",
-      description: "A comprehensive dashboard for managing products, orders, and analytics. Built with performance and scalability in mind.",
-      techStack: ["Next.js", "TypeScript", "PostgreSQL", "Tailwind"],
+      description: "Developed the complete frontend for a full-stack booking application, implementing features such as multi-currency support, payment gateway integration, rewards system, coupon management, dynamic forms, cart functionality and many more.",
+      techStack: ["Next.js", "TypeScript", "Tailwind", "Zod", "Shadcn", "Redux"],
       link: "https://travel-user.accessdashboard.live", 
     },
     {
-      title: "Task Management API",
-      description: "A robust RESTful API featuring authentication, real-time updates via WebSockets, and heavy data processing.",
-      techStack: ["Node.js", "Express", "MongoDB", "Docker"],
-      link: "#",
+      title: "Matrimonial Application",
+      description: "Built a matrimonial matchmaking application that allows users to create detailed profiles, connect with potential matches, and upgrade to premium memberships to unlock full platform features.",
+      techStack: ["Next.js", "javascript", "Tailwind", "jotai", "next-auth"],
+      link: "https://rishteyncr.com/",
     }
   ];
 
